@@ -5,13 +5,6 @@ NGOs have the ability to enroll via our website by providing information such as
 We will authenticate the NGO by verifying their assigned NGO registration ID.
 The wallet address of the NGO will be added in the smart contract within their respective field. When a user selects a category, enters an amount to donate, and clicks the send button, the amount will be transferred to the balance of that particular category. Once the threshold balance is reached within that category, the total amount will be evenly distributed among all the NGOs registered under that specific category.
 
-
-
-Access the site
-https://0xmihirsahu.github.io/Donatic/
-
-
-
 ## HOW TO USE
 
 1. Access our website [here](https://0xmihirsahu.github.io/Donatic/)
