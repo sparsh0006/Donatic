@@ -28,4 +28,3 @@ The wallet address of the NGO will be added in the smart contract within their r
 ## Whats next ?
 
 In the future, we will be adding a dedicated section on our platform dedicated to showcasing the activities of the NGOs that are registered on it. This section will provide the NGOs with a platform to showcase their work to potential donors and volunteers. We will also provide an easy-to-use interface for the NGOs to update their activities in real-time. 
-# Donatic
